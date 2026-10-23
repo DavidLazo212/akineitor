@@ -1,0 +1,105 @@
+{
+  "pregunta": "¿Es una persona real?",
+  "si": {
+    "pregunta": "¿Gano el mundial de futbol de qatar 2022 con argentina?",
+    "si": {
+      "respuesta": "messi"
+    },
+    "no": {
+      "pregunta": "¿Es un futbolista portugues apodado \"El Bicho\" o \"CR7\"?",
+      "si": {
+        "respuesta": "Cristiano Ronaldo"
+      },
+      "no": {
+        "pregunta": "¿Es el multimillonario dueño de tesla y de SpaceX?",
+        "si": {
+          "respuesta": "Elon Musk"
+        },
+        "no": {
+          "pregunta": "¿Fue un famoso cantante conocido como \"El Rey del Pop?",
+          "si": {
+            "respuesta": "Michael Jackson"
+          },
+          "no": {
+            "pregunta": "¿Fue la cientifica que descubrio la radioactividad y gano premios nobel?",
+            "si": {
+              "respuesta": "Marie Curie"
+            },
+            "no": {
+              "pregunta": "¿Fue el artista historico que pinto el famoso cuadro de la Mona Lisa?",
+              "si": {
+                "respuesta": "Leonardo da Vinci"
+              },
+              "no": {
+                "pregunta": "¿Es un famoso piloto mexicano de la formula 1 que corre para el equipo Red Bull?",
+                "si": {
+                  "respuesta": "Checo Perez"
+                },
+                "no": {
+                  "pregunta": "¿Es el creador de contenido de youtube con mas suscriptores en todo el mundo por regalar  dinero?",
+                  "si": {
+                    "respuesta": "MrBeast"
+                  },
+                  "no": {
+                    "respuesta": "Albert Einstein"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "no": {
+    "pregunta": "¿es un super heroe multimillonatio que se viste de murcielago?",
+    "si": {
+      "respuesta": "Batman"
+    },
+    "no": {
+      "pregunta": "¿Consiguio sus poderes por la picadura de una araña?",
+      "si": {
+        "respuesta": "Spider-Man"
+      },
+      "no": {
+        "pregunta": "¿Es un guerrero de raza saiyajin que busca las esferas del dragon?",
+        "si": {
+          "respuesta": "Goku"
+        },
+        "no": {
+          "pregunta": "¿Es un fontanero con bigote que rescata a una princesa en el reino champiñon?",
+          "si": {
+            "respuesta": "Mario bros"
+          },
+          "no": {
+            "pregunta": "¿Es un pirata con sombrero de paja que quiere convertirse en el Rey de los piratas?",
+            "si": {
+              "respuesta": "Luffy"
+            },
+            "no": {
+              "pregunta": "¿Es un espadachin que pelea usando tres espadas al mismo tiempo?",
+              "si": {
+                "respuesta": "Roronoa Zoro"
+              },
+              "no": {
+                "pregunta": "¿Es un rockero rebelde con un brazo cromado que vive atrapado dentro de la mente del protagonista?",
+                "si": {
+                  "respuesta": "Johnny Silverhand"
+                },
+                "no": {
+                  "pregunta": "¿Es un mercenario de Night City que intenta sobrevivir tras salir mal el robo de un biochip milagroso?",
+                  "si": {
+                    "respuesta": "V"
+                  },
+                  "no": {
+                    "respuesta": "Harry Potter"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
